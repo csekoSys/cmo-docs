@@ -1,12 +1,23 @@
 * [Kezdőlap](/)
-* [Általános információk](informaciok.md) 
-* [CMO - mobilapplikáció](mobilapplikacio/mobilapplikacio.md)
- * [Funkciólista](mobilapplikacio/funkciolista.md)
-* [CMO - webalkalmazás](webalkalmazas/webalkalmazas.md)
-* [Bankkártya terminál](bankkartya-terminal/altalanos-informaciok.md)
- * [PAX S800](bankkartya-terminal/pax-s800-bankkartya-terminal.md) 
- * [PAX S920](bankkartya-terminal/pax-s920-bankkartya-terminal.md)
-* [Pénztárgép](online-penztargep/penztargepek.md)
- * [CMO felhő használata](online-penztargep/cmo-felho-hasznalata.md)
- * [CashBox Base pénztárgép](online-penztargep/cashbox-base-penztargep.md)
- * [Fiscat Neon+ Wifi pénztárgép](online-penztargep/fiscat-neon-wifi-penztargep.md)
+* [Általános információk](informaciok.md)
+
+<span class="sidebar-nav-text">MOBILAPPLIKÁCIÓ</span>
+* [Információ](mobilapplikacio/mobilapp-informaciok.md)
+* [Gyakran ismételt kérdések](mobilapplikacio/mobilapp-gyik.md)
+* [Funkciólista](mobilapplikacio/mobilapp-funkciolista.md)
+* [Használati útmutató](mobilapplikacio/mobilapp-hasznalati-utmutato.md)
+
+<span class="sidebar-nav-text">WEBALKALMAZÁS</span>
+* [Információ](webalkalmazas/webapp-informaciok.md)
+* [Gyakran ismételt kérdések](webalkalmazas/webapp-gyik.md)
+* [Funkciólista](webalkalmazas/webapp-funkciolista.md)
+* [Használati útmutató](webalkalmazas/webapp-hasznalati-utmutato.md)
+
+<span class="sidebar-nav-text">BANKKÁRTYA TERMINÁ</span>
+* [Információk](bankkartya-terminal/terminal-informaciok.md)
+* [Gyakran ismételt kérdések](bankkartya-terminal/bankkartya-terminal-gyik.md)
+* [Bankkártya terminál típusok](bankkartya-terminal/bankkartya-terminal-tipusok.md) 
+
+<span class="sidebar-nav-text">ONLINE PÉNZTÁRGÉP</span>
+* [CMO felhő beállítása](online-penztargep/penztargep-cmo-felho.md)
+* [Pénztárgép típusok](online-penztargep/penztargep-tipusok.md)

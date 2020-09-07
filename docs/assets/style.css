@@ -18,7 +18,7 @@
         clear: both;
     }
     
-    .markdown-section img {
+    .img-float-left img {
         float: left;
         width: 120px;
         margin-top: 10px;
@@ -27,4 +27,9 @@
         border-style: solid;
         border-color: #b700ff;
         border-width: 1px;
+    }
+    
+    .sidebar-nav-text {
+        color: #b700ff;
+        font-size: 16px;
     }

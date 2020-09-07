@@ -2,16 +2,16 @@
 
 > A funkciólista nem teljes, csak a főbb komponensek kerültek feltüntetésre.
 
-### Általános funkciók:
+### Általános funkciók
 + Többnyelvű felhasználói felület
 + Saját profil szerkesztése
 
-### Vállalkozás kezelése:
+### Vállalkozás kezelése
 + Több vállalkozás kezelése
 + NAV technikai felhasználó
 + Bankszámlaszám rögzítése
 
-### Felhasználó kezelés:
+### Felhasználó kezelés
 + Felhasználók meghívása a cégbe
 + Felhasználói jogosultságok:
  + Admin
@@ -19,7 +19,7 @@
  + Eladó
  + Könyvelő
 
-### Számlázás:
+### Számlázás
 + Számla kiállítás
 + Számla előnézet
 + Sztornózás
@@ -31,11 +31,11 @@
 + Keresés kiállítás dátuma alapján
 + NAV feldolgozottsági státusz megjelenítés
 
-### Cikktörzs kezelés:
+### Cikktörzs kezelés
 + Alapértelmezett cikk
 + Cikkek rögzítése
 + Többnyelvű cikk kezelés, automatikus fordítással
 
-### Partnertörzs kezelés:
+### Partnertörzs kezelés
 + Partnerek automatikus mentése
 + Partneradatok automatikus betöltése adószám alapján

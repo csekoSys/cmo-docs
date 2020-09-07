@@ -1,0 +1,2 @@
+# Gyakran ismételt kérdések
+
