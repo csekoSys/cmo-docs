@@ -15,7 +15,7 @@
 
 > Lehetőség van a technikai felhaszáló beállítására QR kód beolvasásával, ebben az esetben csak a jelszó mezőt kell kitöltened!
 
-<iframe class="yb-video" width="560" height="315" src="https://www.youtube.com/embed/ek7ERk9cti8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="video-container" src="https://www.youtube.com/embed/ek7ERk9cti8" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Mobil nyomtató beállítása
