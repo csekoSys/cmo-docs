@@ -1,0 +1,54 @@
+    #main>div>p {
+        float: left !important;
+    }
+    
+    #main>p>a>img {
+        width: 300px;
+        margin-right: 50px;
+    }
+    
+    .app-nav>ul>li>p>a {
+        color: white;
+    }
+    
+    #töltsd-le-a-cmo-számlázóját-ingyenesen>a {
+        color: purple;
+        background-color: aliceblue;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        text-decoration: none;
+    }
+    
+    #töltsd-le-a-cmo-számlázóját-ingyenesen>a>span {
+        text-align: center;
+    }
+    /* https://jhildenbiddle.github.io/docsify-themeable/#/customization */
+    
+     :root {
+        --base-font-size: 15px;
+        --base-color: white;
+        /* betűszín */
+        /* https://hslpicker.com/#b700ff */
+        --theme-hue: 268;
+        /* BASE */
+        --base-background-color: #1e1e1e;
+        /* oldal háttere */
+        /* COVER */
+        --cover-button-background--hover: blue;
+        --cover-background-color: #1e1e1e;
+        --search-background: #252525;
+        --blockquote-background: #252525;
+        /* SIDEBAR */
+        --sidebar-background: #252525;
+        --sidebar-nav-link-color--active: white;
+        /* cmo lila = rgba(183, 0, 255, 1) - jobbra mutató nyíl -> stroke='rgb%28183, 0, 255%29' */
+        --sidebar-nav-pagelink-background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='7' height='11.2' viewBox='0 0 7 11.2'%3E%3Cpath d='M1.5 1.5l4 4.1 -4 4.1' stroke-width='1.5' stroke='rgb%28183, 0, 255%29' fill='none' stroke-linecap='square' stroke-linejoin='miter' vector-effect='non-scaling-stroke'/%3E%3C/svg%3E");
+        /* cmo lila = rgba(183, 0, 255, 1) - lefelé mutató nyíl -> stroke='rgb%28183, 0, 255%29' */
+        --sidebar-nav-pagelink-background-image--active: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='11.2' height='7' viewBox='0 0 11.2 7'%3E%3Cpath d='M1.5 1.5l4.1 4 4.1-4' stroke-width='1.5' stroke='rgb%28183, 0, 255%29' fill='none' stroke-linecap='square' stroke-linejoin='miter' vector-effect='non-scaling-stroke'/%3E%3C/svg%3E");
+        --sidebar-nav-pagelink-background-image--collapse: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='7' height='11.2' viewBox='0 0 7 11.2'%3E%3Cpath d='M1.5 1.5l4 4.1 -4 4.1' stroke-width='1.5' stroke='rgb%28183, 0, 255%29' fill='none' stroke-linecap='square' stroke-linejoin='miter' vector-effect='non-scaling-stroke'/%3E%3C/svg%3E");
+        --sidebar-nav-pagelink-background-image--loaded: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='11.2' height='7' viewBox='0 0 11.2 7'%3E%3Cpath d='M1.5 1.5l4.1 4 4.1-4' stroke-width='1.5' stroke='rgb%28183, 0, 255%29' fill='none' stroke-linecap='square' stroke-linejoin='miter' vector-effect='non-scaling-stroke'/%3E%3C/svg%3E");
+        /* TABLE */
+        --table-head-background: linear-gradient(to right, blue, purple);
+        --table-cell-padding: 1em;
+    }
