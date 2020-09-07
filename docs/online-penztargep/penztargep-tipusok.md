@@ -10,7 +10,7 @@ A CashBox pénztárgép család első tagja a base nevet kapta, mely hasonlóan 
 ### Technikai leírás
 A pénztárgép gyors termo nyomtatóval rendelkezik (22 sor/sec) melynek nagy előnye még a gyors egy pattintátos papírszalag csere. Legyen szó mérleg kezelésről vagy bankkártya terminál vagy számítógép (vagy a későbbiekben, wifi/UTP hálózaton keresztül, felhő szolgáltatás) csatlakoztatásáról a CashBox base online pénztárgép mindig hű és innovatív társa lesz a munkában.
 
-| Tulajdonság | Érték |
+|  |  |
 | -------------- | ----------- |
 | Engedély szerinti típus: | CashBox base online pénztárgép | 
 | Forgalmazó: | LA Pénztárgép Kft | 
@@ -39,7 +39,7 @@ A pénztárgép gyors termo nyomtatóval rendelkezik (22 sor/sec) melynek nagy e
 
 
 ### Technikai leírás
-| Tulajdonság | Érték |
+|  |  |
 | -------------- | ----------- |
 | Terméknév:| Fiscat Neon+WiFi |
 | Engedélyszám:| A241 |

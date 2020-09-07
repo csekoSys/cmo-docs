@@ -14,10 +14,10 @@
 * [Használati útmutató](webalkalmazas/webapp-hasznalati-utmutato.md)
 
 <span class="sidebar-nav-text">BANKKÁRTYA TERMINÁ</span>
-* [Információk](bankkartya-terminal/terminal-informaciok.md)
 * [Gyakran ismételt kérdések](bankkartya-terminal/bankkartya-terminal-gyik.md)
 * [Bankkártya terminál típusok](bankkartya-terminal/bankkartya-terminal-tipusok.md) 
 
 <span class="sidebar-nav-text">ONLINE PÉNZTÁRGÉP</span>
+* [Információk](online-penztargep/penztargep-informaciok.md)
 * [CMO felhő beállítása](online-penztargep/penztargep-cmo-felho.md)
 * [Pénztárgép típusok](online-penztargep/penztargep-tipusok.md)
