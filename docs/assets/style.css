@@ -1,4 +1,8 @@
-    #main>div>p {
+p {
+   text-align: justify; 
+}
+
+#main>div>p {
         float: left !important;
     }
     
